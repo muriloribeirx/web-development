@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+    margin: auto;
+    width: 95%;
+}
+
+h1 {
+    background-color: yellow;
+    /* margin: 30px; */
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+

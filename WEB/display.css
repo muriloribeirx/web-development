@@ -1,0 +1,26 @@
+body {
+    width: 95%;
+    margin: auto;
+    font-family: sans-serif;
+}
+
+h1 {
+    border: 2px solid red;
+}
+
+p {
+    width: 70%;    
+    background-color: #ccc;
+}
+
+a{
+    background-color: yellow;
+    padding: 5px;
+    display: inline-block;
+}
+
+strong {
+    padding: 25px;
+    background-color: red;
+    display: inline-block;
+}

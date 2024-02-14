@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+    width: 95%;
+    margin: auto;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    margin: auto;
+}
+
+p {
+    width: 500px;
+    color: white;
+    background-color: #ccc;
+}
+
+.p1 {
+    padding: 25px;
+}
+
+.p2 {
+    padding: 25px;
+    border: 10px solid red;
+}
+
+.p3 {
+    padding: 25px;
+    border: 10px solid red;
+    box-sizing: border-box;
+}
