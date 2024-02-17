@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 54px;
+    text-align: center;
+    text-decoration: underline blueviolet;
+    margin: 5;
+}
+
+h2 {
+    color: white;
+    font-size: 28px;
+    font-style: italic;
+    text-align: center;
+    text-decoration: underline;
+    margin: 0;
+}
+
+p {
+    color: white;
+    font-size: 14px;
+    text-indent: 25px;
+    text-align: center;
+    border-radius: 70px;
+    background: rgb(138, 43, 226);
+    padding: 25px;
+    margin: 25px;
+
+}
+
+.link {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+}
