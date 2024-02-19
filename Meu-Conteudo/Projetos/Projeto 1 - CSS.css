@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding: 0;
+    background-color: #ccc;
 }
 
 header {
@@ -13,3 +14,45 @@ header {
     padding: 20px; /* Espaçamento interno do cabeçalho, ajuste conforme necessário */
 }
 
+section {
+    background-color: white;
+    padding: 5px 20px 20px 20px;
+
+    margin: 20px;
+}
+
+footer {
+    background-color: grey;
+    text-align: center;
+    padding: 20px;
+}
+
+h2 {
+    background-color: aliceblue;
+    padding: 15px;
+    border-bottom: #ccc solid;
+    
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+.botao {
+    background-color: #ccc;
+    padding: 10px;
+    text-align: center;
+    width: 80px;
+}
+
+
+ul {
+    padding-left: 0;
+  }
+  
+  li {
+    list-style-position: inside;
+    color: white;
+  }
+  
