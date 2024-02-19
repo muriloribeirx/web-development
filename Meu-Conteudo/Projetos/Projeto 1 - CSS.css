@@ -1,58 +1,54 @@
 body {
-    margin: 0;
-    padding: 0;
-    background-color: #ccc;
+  margin: 0;
+  padding: 0;
+  background-color: #ccc;
 }
 
 header {
-    background-image: url(bg-2.jpg);   
-    background-size: cover; /* Ajusta a imagem para cobrir todo o elemento */
-    background-position: center; /* Centraliza a imagem */
-    height: 300px; /* Altura do seu cabeçalho, ajuste conforme necessário */
-    color: #fff; /* Cor do texto no cabeçalho, ajuste conforme necessário */
-    text-align: center; /* Alinha o texto no centro */
-    padding: 20px; /* Espaçamento interno do cabeçalho, ajuste conforme necessário */
+  background-image: url(bg-2.jpg);
+  background-size: cover; /* Ajusta a imagem para cobrir todo o elemento */
+  background-position: center; /* Centraliza a imagem */
+  height: 300px; /* Altura do seu cabeçalho, ajuste conforme necessário */
+  color: #fff; /* Cor do texto no cabeçalho, ajuste conforme necessário */
+  text-align: center; /* Alinha o texto no centro */
+  padding: 20px; /* Espaçamento interno do cabeçalho, ajuste conforme necessário */
 }
 
 section {
-    background-color: white;
-    padding: 5px 20px 20px 20px;
+  background-color: white;
+  padding: 5px 20px 20px 20px;
 
-    margin: 20px;
+  margin: 30px 100px;
 }
 
 footer {
-    background-color: grey;
-    text-align: center;
-    padding: 20px;
+  background-color: grey;
+  text-align: center;
+  padding: 20px;
 }
 
 h2 {
-    background-color: aliceblue;
-    padding: 15px;
-    border-bottom: #ccc solid;
-    
+  background-color: aliceblue;
+  padding: 15px;
+  border-bottom: #ccc solid;
 }
 
 p {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .botao {
-    background-color: #ccc;
-    padding: 10px;
-    text-align: center;
-    width: 80px;
+  background-color: #ccc;
+  padding: 10px;
+  text-align: center;
+  width: 80px;
 }
 
-
 ul {
-    padding-left: 0;
-  }
-  
-  li {
-    list-style-position: inside;
-    color: white;
-  }
-  
+  padding-left: 0;
+}
+
+li {
+  list-style-position: inside;
+  color: white;
+}
