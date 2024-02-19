@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-image: url(bg-2.jpg);   
+    background-size: cover; /* Ajusta a imagem para cobrir todo o elemento */
+    background-position: center; /* Centraliza a imagem */
+    height: 300px; /* Altura do seu cabeçalho, ajuste conforme necessário */
+    color: #fff; /* Cor do texto no cabeçalho, ajuste conforme necessário */
+    text-align: center; /* Alinha o texto no centro */
+    padding: 20px; /* Espaçamento interno do cabeçalho, ajuste conforme necessário */
+}
+
