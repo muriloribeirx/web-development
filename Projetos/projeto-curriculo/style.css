@@ -6,12 +6,18 @@ body {
 
 .header {
   background-image: url(bg-2.jpg);
-  background-size: cover; /* Ajusta a imagem para cobrir todo o elemento */
-  background-position: center; /* Centraliza a imagem */
-  height: 400px; /* Altura do seu cabeçalho, ajuste conforme necessário */
-  color: #fff; /* Cor do texto no cabeçalho */
-  text-align: center; /* Alinha o texto no centro */
-  padding: 1px; /* Espaçamento interno do cabeçalho, ajuste conforme necessário */
+  background-size: cover;
+  /* Ajusta a imagem para cobrir todo o elemento */
+  background-position: center;
+  /* Centraliza a imagem */
+  height: 400px;
+  /* Altura do seu cabeçalho, ajuste conforme necessário */
+  color: #fff;
+  /* Cor do texto no cabeçalho */
+  text-align: center;
+  /* Alinha o texto no centro */
+  padding: 1px;
+  /* Espaçamento interno do cabeçalho, ajuste conforme necessário */
 }
 
 .header-content {
@@ -38,7 +44,7 @@ body {
 }
 
 
-nav ul{
+nav ul {
   margin: 20px 50px 0 0;
   text-align: center;
 
@@ -87,8 +93,3 @@ article h2 {
   padding: 10px;
   margin-top: 0;
 }
-
-
-
-
-
